@@ -1,4 +1,4 @@
-# TodoPixel
+# TodoPixel API
 
 TodoPixel is a simple training project built with [NestJS](https://nestjs.com/).  
 It provides a basic private API for managing a user-based todo list.  
